@@ -1,0 +1,2 @@
+python srt.py
+pause
